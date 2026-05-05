@@ -23,4 +23,4 @@ A través de mis plataformas Sillage e InkDrop, comercializo productos y desarro
 
 
 ### Github stats 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Equipodevelopers2024&theme=android-dark&locale=es&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat&card_width=550)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Teamdevelopers2024&theme=android-dark&locale=es&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat&card_width=550)](https://git.io/streak-stats)
